@@ -6,7 +6,7 @@
 [![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/Duduxs/Awesome-README-Templates/tree/main/Repository-README)
 ---
 
-## ✨ Contribuidores<br>
+## ✨ Contribuidores Tereza Oliveira<br>
 
 <table>
   <tr>
